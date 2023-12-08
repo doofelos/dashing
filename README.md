@@ -2,10 +2,7 @@
 i'm dashing
 
 todo:
-- add some info to project cards
 - fix sidebar spacing
-- add circle backgrounds to notification bell and icon in right corner
-- make everything fit in one page without scroll
 - shorten gap in header
 
 
